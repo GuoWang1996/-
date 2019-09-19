@@ -82,6 +82,8 @@ public class EmpController {
 		  e.setEmpno(4);
 		  e.setEname("王五");
 		  e.setComm(2);
+		  e.setEname("王五");
+
 		  e.setJob("程序员");
 		  e.setMgr(2);
 		  e.setHiredate("2");
