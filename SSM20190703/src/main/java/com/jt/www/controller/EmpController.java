@@ -81,6 +81,7 @@ public class EmpController {
 		  Emp e=new Emp();
 		  e.setEmpno(4);
 		  e.setEname("test_马六");
+		  System.out.println("************************");
 		  e.setComm(2);
 		  e.setJob("程序员");
 		  e.setMgr(2);
