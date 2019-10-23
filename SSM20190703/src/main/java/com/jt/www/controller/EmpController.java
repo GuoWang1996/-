@@ -80,7 +80,7 @@ public class EmpController {
 	   public void testInsert() throws Exception{           
 		  Emp e=new Emp();
 		  e.setEmpno(4);
-		  e.setEname("马六分支2");
+		  e.setEname("马六分支2status2");
 		  System.out.println();
 		  e.setComm(2);
 		  e.setJob("程序员");
